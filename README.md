@@ -1,1 +1,3 @@
 # ToDO-Mern
+
+The MERN stack (MongoDB, Express.js, React, and Node.js) is a powerful set of technologies used to build full-stack web applications. In a MERN Todo app, MongoDB serves as the NoSQL database to store todo items, providing flexible schema design and scalability. Express.js acts as the backend framework, facilitating API routes for CRUD (Create, Read, Update, Delete) operations. Node.js is the server environment that runs the backend, handling requests and responses efficiently. React is used for the frontend, offering a dynamic user interface to manage todos in real-time. This stack allows for seamless data flow and state management, creating a responsive and robust Todo application.
